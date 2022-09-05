@@ -6,6 +6,7 @@ __pycache__/
 # Dataset
 *.csv
 data/
+model/
 
 # C extensions
 *.so
